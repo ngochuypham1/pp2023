@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Pham Ngoc Huy
-* Student ID: BI12-197
+## Student Name: Pham Ngoc Huy
+
+## Student ID: BI12-197
 
